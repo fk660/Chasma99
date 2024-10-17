@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Chashma99.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="spanny_str">New User? Register Here!</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="chashma99_chandigarh">Chashma99 Chandigarh</string>
+    <string name="hello_everyone_yeh_patna_ka_chashma99_com_app_bahot_hi_badhiya_chashma_milta_hai_yaha">Hello Everyone Yeh Patna Ka Chashma99.com App Bahot Hi Badhiya Chashma Milta Hai Yaha</string>
+    <string name="chashma99_ludhiana">Chashma99 Ludhiana</string>
+    <string name="Chashma99.com">Faiyaz Mujtaba</string>
+    <string name="faiyazmujtaba72_gmail_com">faiyazmujtaba72@gmail.com</string>
+
+
+</resources>

@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".categories.EyeFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="360dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/roundd"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="14dp"
+                    android:text=" EYE GLASSES"
+                    android:textColor="@color/black"
+                    android:textStyle="bold" />
+
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="7dp"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="149dp"
+                    android:layout_height="186dp"
+                    android:layout_marginStart="12dp"
+                    android:layout_marginBottom="14dp"
+                    android:background="@drawable/product_round"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="134dp"
+                        android:layout_height="110dp"
+                        android:layout_marginBottom="5dp"
+                        android:src="@drawable/chashmaaa" />
+
+                    <TextView
+                        android:layout_width="113dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginBottom="2dp"
+                        android:text="Rayban Black Glass"
+                        android:textColor="@color/black"
+                        android:textSize="16sp" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="26dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="10dp"
+                            android:text="$350"
+                            android:textColor="@color/black"
+                            android:textSize="16sp" />
+
+                        <ImageView
+                            android:layout_width="18dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginStart="55dp"
+                            android:src="@drawable/hearttt" />
+
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="149dp"
+                    android:layout_height="186dp"
+                    android:layout_marginStart="24dp"
+                    android:layout_marginBottom="12dp"
+                    android:background="@drawable/product_round"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="134dp"
+                        android:layout_height="110dp"
+                        android:layout_marginBottom="5dp"
+                        android:src="@drawable/chashmaaa" />
+
+                    <TextView
+                        android:layout_width="113dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginBottom="2dp"
+                        android:text="Rayban Black Glass"
+                        android:textColor="@color/black"
+                        android:textSize="16sp" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="26dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="10dp"
+                            android:text="$350"
+                            android:textColor="@color/black"
+                            android:textSize="16sp" />
+
+                        <ImageView
+                            android:layout_width="18dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginStart="55dp"
+                            android:src="@drawable/hearttt" />
+
+                    </LinearLayout>
+
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="7dp"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="149dp"
+                    android:layout_height="186dp"
+                    android:layout_marginStart="12dp"
+                    android:layout_marginBottom="14dp"
+                    android:background="@drawable/product_round"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="134dp"
+                        android:layout_height="110dp"
+                        android:layout_marginBottom="5dp"
+                        android:src="@drawable/chashmaaa" />
+
+                    <TextView
+                        android:layout_width="113dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginBottom="2dp"
+                        android:text="Rayban Black Glass"
+                        android:textColor="@color/black"
+                        android:textSize="16sp" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="26dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="10dp"
+                            android:text="$350"
+                            android:textColor="@color/black"
+                            android:textSize="16sp" />
+
+                        <ImageView
+                            android:layout_width="18dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginStart="55dp"
+                            android:src="@drawable/hearttt" />
+
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="149dp"
+                    android:layout_height="186dp"
+                    android:layout_marginStart="24dp"
+                    android:layout_marginBottom="12dp"
+                    android:background="@drawable/product_round"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="134dp"
+                        android:layout_height="110dp"
+                        android:layout_marginBottom="5dp"
+                        android:src="@drawable/chashmaaa" />
+
+                    <TextView
+                        android:layout_width="113dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginBottom="2dp"
+                        android:text="Rayban Black Glass"
+                        android:textColor="@color/black"
+                        android:textSize="16sp" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="26dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="10dp"
+                            android:text="$350"
+                            android:textColor="@color/black"
+                            android:textSize="16sp" />
+
+                        <ImageView
+                            android:layout_width="18dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginStart="55dp"
+                            android:src="@drawable/hearttt" />
+
+                    </LinearLayout>
+
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="7dp"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="149dp"
+                    android:layout_height="186dp"
+                    android:layout_marginStart="12dp"
+                    android:layout_marginBottom="14dp"
+                    android:background="@drawable/product_round"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="134dp"
+                        android:layout_height="110dp"
+                        android:layout_marginBottom="5dp"
+                        android:src="@drawable/chashmaaa" />
+
+                    <TextView
+                        android:layout_width="113dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginBottom="2dp"
+                        android:text="Rayban Black Glass"
+                        android:textColor="@color/black"
+                        android:textSize="16sp" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="26dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="10dp"
+                            android:text="$350"
+                            android:textColor="@color/black"
+                            android:textSize="16sp" />
+
+                        <ImageView
+                            android:layout_width="18dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginStart="55dp"
+                            android:src="@drawable/hearttt" />
+
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="149dp"
+                    android:layout_height="186dp"
+                    android:layout_marginStart="24dp"
+                    android:layout_marginBottom="12dp"
+                    android:background="@drawable/product_round"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="134dp"
+                        android:layout_height="110dp"
+                        android:layout_marginBottom="5dp"
+                        android:src="@drawable/chashmaaa" />
+
+                    <TextView
+                        android:layout_width="113dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginBottom="2dp"
+                        android:text="Rayban Black Glass"
+                        android:textColor="@color/black"
+                        android:textSize="16sp" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="26dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="10dp"
+                            android:text="$350"
+                            android:textColor="@color/black"
+                            android:textSize="16sp" />
+
+                        <ImageView
+                            android:layout_width="18dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginStart="55dp"
+                            android:src="@drawable/hearttt" />
+
+                    </LinearLayout>
+
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="7dp"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="149dp"
+                    android:layout_height="186dp"
+                    android:layout_marginStart="12dp"
+                    android:layout_marginBottom="14dp"
+                    android:background="@drawable/product_round"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="134dp"
+                        android:layout_height="110dp"
+                        android:layout_marginBottom="5dp"
+                        android:src="@drawable/chashmaaa" />
+
+                    <TextView
+                        android:layout_width="113dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginBottom="2dp"
+                        android:text="Rayban Black Glass"
+                        android:textColor="@color/black"
+                        android:textSize="16sp" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="26dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="10dp"
+                            android:text="$350"
+                            android:textColor="@color/black"
+                            android:textSize="16sp" />
+
+                        <ImageView
+                            android:layout_width="18dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginStart="55dp"
+                            android:src="@drawable/hearttt" />
+
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="149dp"
+                    android:layout_height="186dp"
+                    android:layout_marginStart="24dp"
+                    android:layout_marginBottom="12dp"
+                    android:background="@drawable/product_round"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="134dp"
+                        android:layout_height="110dp"
+                        android:layout_marginBottom="5dp"
+                        android:src="@drawable/chashmaaa" />
+
+                    <TextView
+                        android:layout_width="113dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginBottom="2dp"
+                        android:text="Rayban Black Glass"
+                        android:textColor="@color/black"
+                        android:textSize="16sp" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="26dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="10dp"
+                            android:text="$350"
+                            android:textColor="@color/black"
+                            android:textSize="16sp" />
+
+                        <ImageView
+                            android:layout_width="18dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginStart="55dp"
+                            android:src="@drawable/hearttt" />
+
+                    </LinearLayout>
+
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="7dp"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="149dp"
+                    android:layout_height="186dp"
+                    android:layout_marginStart="12dp"
+                    android:layout_marginBottom="14dp"
+                    android:background="@drawable/product_round"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="134dp"
+                        android:layout_height="110dp"
+                        android:layout_marginBottom="5dp"
+                        android:src="@drawable/chashmaaa" />
+
+                    <TextView
+                        android:layout_width="113dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginBottom="2dp"
+                        android:text="Rayban Black Glass"
+                        android:textColor="@color/black"
+                        android:textSize="16sp" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="26dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="10dp"
+                            android:text="$350"
+                            android:textColor="@color/black"
+                            android:textSize="16sp" />
+
+                        <ImageView
+                            android:layout_width="18dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginStart="55dp"
+                            android:src="@drawable/hearttt" />
+
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="149dp"
+                    android:layout_height="186dp"
+                    android:layout_marginStart="24dp"
+                    android:layout_marginBottom="12dp"
+                    android:background="@drawable/product_round"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="134dp"
+                        android:layout_height="110dp"
+                        android:layout_marginBottom="5dp"
+                        android:src="@drawable/chashmaaa" />
+
+                    <TextView
+                        android:layout_width="113dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginBottom="2dp"
+                        android:text="Rayban Black Glass"
+                        android:textColor="@color/black"
+                        android:textSize="16sp" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="26dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="10dp"
+                            android:text="$350"
+                            android:textColor="@color/black"
+                            android:textSize="16sp" />
+
+                        <ImageView
+                            android:layout_width="18dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginStart="55dp"
+                            android:src="@drawable/hearttt" />
+
+                    </LinearLayout>
+
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="7dp"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="149dp"
+                    android:layout_height="186dp"
+                    android:layout_marginStart="12dp"
+                    android:layout_marginBottom="14dp"
+                    android:background="@drawable/product_round"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="134dp"
+                        android:layout_height="110dp"
+                        android:layout_marginBottom="5dp"
+                        android:src="@drawable/chashmaaa" />
+
+                    <TextView
+                        android:layout_width="113dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginBottom="2dp"
+                        android:text="Rayban Black Glass"
+                        android:textColor="@color/black"
+                        android:textSize="16sp" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="26dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="10dp"
+                            android:text="$350"
+                            android:textColor="@color/black"
+                            android:textSize="16sp" />
+
+                        <ImageView
+                            android:layout_width="18dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginStart="55dp"
+                            android:src="@drawable/hearttt" />
+
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="149dp"
+                    android:layout_height="186dp"
+                    android:layout_marginStart="24dp"
+                    android:layout_marginBottom="12dp"
+                    android:background="@drawable/product_round"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="134dp"
+                        android:layout_height="110dp"
+                        android:layout_marginBottom="5dp"
+                        android:src="@drawable/chashmaaa" />
+
+                    <TextView
+                        android:layout_width="113dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginBottom="2dp"
+                        android:text="Rayban Black Glass"
+                        android:textColor="@color/black"
+                        android:textSize="16sp" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="26dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="10dp"
+                            android:text="$350"
+                            android:textColor="@color/black"
+                            android:textSize="16sp" />
+
+                        <ImageView
+                            android:layout_width="18dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginStart="55dp"
+                            android:src="@drawable/hearttt" />
+
+                    </LinearLayout>
+
+
+                </LinearLayout>
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+</LinearLayout>

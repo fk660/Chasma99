@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mynew_nav"
+    app:startDestination="@id/splashFragment">
+
+    <fragment
+        android:id="@+id/splashFragment"
+        android:name="com.example.chashma99com.fragment.SplashFragment"
+        android:label="fragment_splash"
+        tools:layout="@layout/fragment_splash" >
+        <action
+            android:id="@+id/action_splashFragment_to_viewPagerFragment"
+            app:destination="@id/viewPagerFragment" />
+        <action
+            android:id="@+id/action_splashFragment_to_new_nav"
+            app:destination="@id/new_nav" />
+    </fragment>
+    <fragment
+        android:id="@+id/viewPagerFragment"
+        android:name="com.example.chashma99com.onBoarding.screen.ViewPagerFragment"
+        android:label="fragment_view_pager"
+        tools:layout="@layout/fragment_view_pager" >
+        <action
+            android:id="@+id/action_viewPagerFragment_to_new_nav"
+            app:destination="@id/new_nav" />
+        <action
+            android:id="@+id/action_viewPagerFragment_to_loginActivity"
+            app:destination="@id/loginActivity" />
+    </fragment>
+    <include app:graph="@navigation/new_nav" />
+    <activity
+        android:id="@+id/loginActivity"
+        android:name="com.example.chashma99com.activities.LoginActivity"
+        android:label="activity_login"
+        tools:layout="@layout/activity_login" />
+    <fragment
+        android:id="@+id/loginnFragment"
+        android:name="com.example.chashma99com.fragment.LoginnFragment"
+        android:label="fragment_loginn"
+        tools:layout="@layout/fragment_loginn" >
+        <action
+            android:id="@+id/action_loginnFragment_to_new_nav"
+            app:destination="@id/new_nav" />
+    </fragment>
+    <fragment
+        android:id="@+id/signUpFragment"
+        android:name="com.example.chashma99com.fragment.SignUpFragment"
+        android:label="fragment_sign_up"
+        tools:layout="@layout/fragment_sign_up" >
+        <action
+            android:id="@+id/action_signUpFragment_to_loginnFragment"
+            app:destination="@id/loginnFragment" />
+    </fragment>
+</navigation>

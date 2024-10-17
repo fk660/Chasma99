@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "906539853650",
+    "project_id": "chashma99-78d33",
+    "storage_bucket": "chashma99-78d33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906539853650:android:2783c00304f17966a0bc8b",
+        "android_client_info": {
+          "package_name": "com.example.chashma99com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906539853650-6klfupsrpeq9rua6jg7f1769b7a4n6gm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYreFXtPJy1ktWHCQZyrdfKYfhY_pRoU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906539853650-6klfupsrpeq9rua6jg7f1769b7a4n6gm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
